@@ -6,7 +6,7 @@ url: "https://javpelle.github.io/"
 markdown: kramdown
 timezone: Europe/Berlin
 
-plugins:
-  - jemoji
-  - jekyll-feed
-  - jekyll-redirect-from
+#plugins:
+#  - jemoji
+#  - jekyll-feed
+#  - jekyll-redirect-from
